@@ -28,12 +28,9 @@
   }
 
   /* corpo */
-.topo{
-    display: flex;
-}
 .menu{
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .formulario{
