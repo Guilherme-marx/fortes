@@ -29,7 +29,22 @@
 
   /* corpo */
 
-  .topo{
+.menu{
     display: flex;
-    justify-content: space-around;
-  }
+    flex-wrap: nowrap;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.formulario{
+    max-width: 492px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 30px;
+}
+.base{display: flex;
+    align-items: center;
+    justify-content: space-around;}
