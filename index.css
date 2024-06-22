@@ -28,7 +28,9 @@
   }
 
   /* corpo */
-
+.topo{
+    display: flex;
+}
 .menu{
     display: flex;
     flex-wrap: nowrap;
