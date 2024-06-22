@@ -33,8 +33,6 @@
 }
 .menu{
     display: flex;
-    flex-wrap: nowrap;
-    align-items: baseline;
     justify-content: space-between;
 }
 
